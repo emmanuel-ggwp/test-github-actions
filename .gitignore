@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
+.env
+.npm
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
